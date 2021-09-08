@@ -1,5 +1,5 @@
-# Learn Modules and Learning path
-Find pre-made collections for your next Cloud Skills Challenge via [Microsoft Learn](https://docs.microsoft.com/en-us/learn/) platform.
+# Micro Learning
+Find snackable pre-made collections for your next Cloud Skills Challenge via [Microsoft Learn](https://docs.microsoft.com/en-us/learn/) platform. 
 
 ## Web
 | Collection name | Duration | Link | Comment |
