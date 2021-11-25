@@ -17,9 +17,9 @@ Find snackable pre-made collections for your next Cloud Skills Challenge via [Mi
 | --- | --- | --- | --- |
 | Getting started with Cosmo DB | 3h 10m | [Link](https://docs.microsoft.com/en-us/users/sherrylist/collections/y377fjg43qppx1) | Includes: Azure Data fundementals, create your first Cosmos DB|
 | Foundations of data science for machine learning | 4h 13m | [Link](https://docs.microsoft.com/en-us/users/sherrylist/collections/5x55b3343pw6de?source=learn) | Includes: Intro  to ML, Dada for ML ho to build classical ML models, Regression model in ML & Explore and analyze data with Python |
-| Get started with AI & ML on Azure | 6h | A complete introduction to AL & ML on Azure| 
+| Get started with AI & ML on Azure | 6h | [Link](https://docs.microsoft.com/en-us/users/sherrylist/collections/zn44a44y7gzyex) | A complete introduction to AL & ML on Azure| 
 | Create Machine Learning models | 5h 18 min | [Link](https://docs.microsoft.com/en-us/users/henkboelman/collections/88kcgeyox1nqz) | These modules teach some machine learning concepts, but move fast so they can get to the power of using tools like scikit-learn, TensorFlow, and PyTorch. |
-| Get started with artificial intelligence | 
+
 
 
 <!-- Copy/paste this template: | Collection_NAME | Duration (Xh Xm) | URL | Comments about the collection/Learning path | -->
